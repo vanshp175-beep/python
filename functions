@@ -1,0 +1,6 @@
+data should be in square brackets ----[1,2,3,4,5]
+data.append()-------------it will add value at last
+data.insert()--------------it will insert the specific value  in specific position
+data.remove()---------------it will remove the specific value
+data.pop()------------------it will remove the value in specific position
+data.sort()------------------it will arange the ascending order
